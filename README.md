@@ -1,1 +1,1 @@
-New project
+This is a README file
